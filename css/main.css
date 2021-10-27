@@ -198,8 +198,8 @@ p {
   margin: 0 0 14.4px; }
 
 a {
-  color: #2980b9;
-  text-decoration: none; }
+  color: #000066;
+  text-decoration: bold; }
   a:active, a:focus, a:hover {
     color: #20638f;
     text-decoration: underline; }
@@ -338,6 +338,7 @@ pre code.hljs {
       font-size: 1.25em; }
   .navigation nav {
     float: none;
+    font-size: 1.1em;
     padding: 1.25em 0; }
     @media screen and (min-width: 768px) {
       .navigation nav {
@@ -543,7 +544,8 @@ pre code.hljs {
 */
 .site-footer {
   padding: 1em 1em 2em 1em;
-  background-color: #70aad0;
+  font-size: 1.1em;
+  background-color: #0033cc;
   color: #fff;
   /*
   *	Site Navigation (left)
