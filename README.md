@@ -7,7 +7,9 @@ I love to play with code and build awesome softwares.You may have a look at my g
 
 # Contact
 Twitter(https://twitter.com/sandeepsajan0)
+
 Medium(https://sandeepsajan0.medium.com/)
+
 Linkedin(https://www.linkedin.com/in/sandeepsajan0/)
 
 
