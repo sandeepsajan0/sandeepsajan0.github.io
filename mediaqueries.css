@@ -37,6 +37,11 @@
     margin: 0 5%;
   }
   .section__pic-container {
+    width: 275px;
+    height: 275px;
+    margin: 0 auto 2rem;
+  }
+  .section__about-pic-container {
     width: 200px;
     height: 275px;
     margin: 0 auto 2rem;
@@ -85,6 +90,11 @@
     text-align: center;
   }
   .section__pic-container {
+    width: auto;
+    height: 46vw;
+    justify-content: center;
+  }
+  .section__about-pic-container {
     width: auto;
     height: 46vw;
     justify-content: center;
